@@ -687,6 +687,45 @@ Both projects depend on the same thing.
 
 ---
 
+# Team
+
+<div class="eyebrow">Leadership & delivery</div>
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+  <div class="card soft">
+    <strong>Rajat Dandekar</strong>
+    <div class="muted">Engagement Director</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">Co-Founder, First Principle Labs; Purdue PhD, IITM</p>
+  </div>
+  <div class="card soft">
+    <strong>Raj Dandekar</strong>
+    <div class="muted">AI Expert</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">Co-Founder, First Principle Labs; MIT PhD, IITM</p>
+  </div>
+  <div class="card soft">
+    <strong>Sreedath Panat</strong>
+    <div class="muted">Product Expert</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">Co-Founder, First Principle Labs; MIT PhD, IITM</p>
+  </div>
+  <div class="card soft">
+    <strong>Yash Dixit</strong>
+    <div class="muted">Advisor</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">AI Lead, Apple; ex McKinsey; MIT and IITM</p>
+  </div>
+  <div class="card soft">
+    <strong>Pritam Kudale</strong>
+    <div class="muted">Forward Deployed Engineer</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">Lead Engineer, First Principle Labs</p>
+  </div>
+  <div class="card soft">
+    <strong>Second FDE</strong>
+    <div class="muted">Forward Deployed Engineer · assigned by start date</div>
+    <p class="muted" style="font-size: 0.82rem; margin-top: 0.35rem; margin-bottom: 0;">Lead Engineer, First Principle Labs</p>
+  </div>
+</div>
+
+---
+
 # Engagement Model
 
 <div class="grid grid-cols-2 gap-8">
@@ -727,6 +766,25 @@ Both projects depend on the same thing.
   <li><strong>Clear handover.</strong> Everything is documented, reproducible, and owned by Ramco at completion.</li>
   <li><strong>Lasting value.</strong> The Ramco Brain from Phase 1 is an asset Ramco keeps forever — usable for any future work on the platform, not just these two projects.</li>
 </ul>
+
+---
+
+# Investment overview
+
+<div class="eyebrow">Commercial structure</div>
+
+<ul>
+  <li><strong>Phase 1.</strong> ₹4 crore (INR), two months — Ramco Brain foundation and on-site immersion at Chennai.</li>
+  <li><strong>Phase 2.</strong> ₹6–8 crore (INR) total for Phase 2A and Phase 2B running in parallel — final investment depends on process breadth and migration volume.</li>
+</ul>
+
+<h3>Phase 2 pricing approach</h3>
+
+<p>Fixed fee plus outcome-based milestones.</p>
+
+<div class="mt-4 keyline">
+  <strong>Decision gate.</strong> Within two weeks of the Phase 1 readout, we deliver a commercial proposal for Phase 2 that sets <strong>Phase 2 pricing</strong> and the <strong>KPIs</strong> used to measure and pay against outcome-based milestones — so both sides agree on economics and success criteria before Phase 2 work begins.
+</div>
 
 ---
 
